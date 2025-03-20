@@ -121,5 +121,3 @@ data/resultado_bigquery_20240317_153045.xlsx
 ---
 
 **Autor:** Lucas Almeida 
-
-# extraction_data_bigquery_with_python

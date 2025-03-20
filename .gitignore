@@ -6,6 +6,7 @@ __pycache__/
 data/*
 !.gitkeep
 
+
 # C extensions
 *.so
 
@@ -175,3 +176,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+.DS_Store
