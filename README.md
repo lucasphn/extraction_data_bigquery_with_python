@@ -61,6 +61,8 @@ O script utiliza o SDK do Google Cloud para acessar o BigQuery. Para instalá-lo
 
 ## 3. **Executando o Script**
 
+Na variável "query", inclusa seu código SQL. Ele que será utlizado para consultar os dados no Bigquery.
+
 Com o ambiente virtual ativado e as credenciais configuradas, execute o script:
 ```sh
 python extraction.py
